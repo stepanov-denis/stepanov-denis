@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @stepanov-denis
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on the development of rust programs
-- 📫 How to reach me: stepanov.d.m@yandex.ru
-
-<!---
-stepanov-denis/stepanov-denis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### 👋 Hi, I’m Stepanov Denis
+* I’m interested in functional programming
+* I’m currently learning Rust, Elm
+* I’m looking to collaborate on the development of rust programs
+* I'm currently reading:
+  * [The Cargo Book](https://doc.rust-lang.org/cargo/index.html/)
+  * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+  * [Elm in Action](https://www.manning.com/books/elm-in-action)
+  * [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech)
+* How to reach me:
+  * stepanov.d.m@yandex.ru
+  * [Telegram](https://t.me/stepanov_d_m/)
+  * [Instagram](https://www.instagram.com/stepanov.d.m/)

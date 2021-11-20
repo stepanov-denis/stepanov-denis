@@ -3,7 +3,7 @@
 * I’m currently learning Rust, Elm
 * I’m looking to collaborate on the development of rust programs
 * I'm currently reading:
-  * [The Cargo Book](https://doc.rust-lang.org/cargo/index.html/)
+  * [Rustc Book](https://doc.rust-lang.org/rustc/index.html)
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Elm in Action](https://www.manning.com/books/elm-in-action)
   * [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech)

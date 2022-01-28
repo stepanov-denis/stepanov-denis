@@ -1,6 +1,6 @@
 ##### 👋 Hi, I’m Stepanov Denis
 * I’m interested in functional programming
-* I’m currently learning Rust, Elm
+* I’m currently learning Rust, Elm, Haskell
 * I’m looking to collaborate on the development of rust programs
 * I'm currently reading:
   * [Building Microservices](https://samnewman.io/books/building_microservices/)

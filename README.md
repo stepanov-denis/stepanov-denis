@@ -3,10 +3,9 @@
 * I’m currently learning Rust, Elm
 * I’m looking to collaborate on the development of rust programs
 * I'm currently reading:
-  * [Rustc Book](https://doc.rust-lang.org/rustc/index.html)
-  * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-  * [Elm in Action](https://www.manning.com/books/elm-in-action)
-  * [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech)
+  * [Building Microservices](https://samnewman.io/books/building_microservices/)
+  * [PostgreSQL изнутри](https://postgrespro.ru/education/books/internals)
+  * [Программируй на Haskell](https://www.ozon.ru/product/programmiruy-na-haskell-148016677/?sh=-QD8JgAAAA)
 * How to reach me:
   * stepanov.d.m@yandex.ru
   * [Telegram](https://t.me/stepanov_d_m/)

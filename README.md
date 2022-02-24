@@ -3,7 +3,7 @@
 * I’m currently learning Rust, Elm, Haskell
 * I’m looking to collaborate on the development of rust programs
 * I'm currently reading:
-  * [Building Microservices](https://samnewman.io/books/building_microservices/)
+  * [Domain Modeling Made Functional](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
   * [PostgreSQL изнутри](https://postgrespro.ru/education/books/internals)
   * [Программируй на Haskell](https://www.ozon.ru/product/programmiruy-na-haskell-148016677/?sh=-QD8JgAAAA)
 * How to reach me:

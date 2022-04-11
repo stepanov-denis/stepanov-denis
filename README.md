@@ -9,4 +9,3 @@
 * How to reach me:
   * stepanov.d.m@yandex.ru
   * [Telegram](https://t.me/stepanov_d_m/)
-  * [Instagram](https://www.instagram.com/stepanov.d.m/)

@@ -2,11 +2,20 @@
 * I’m interested in functional programming
 * I’m currently learning Rust, Golang, Haskell
 * I’m looking to collaborate on the development of rust programs
-* I'm currently reading:
-  * [Domain Modeling Made Functional](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
-  * [Программируй на Haskell](https://www.ozon.ru/product/programmiruy-na-haskell-148016677/?sh=-QD8JgAAAA)
-  * [Использование Docker](https://www.ozon.ru/product/ispolzovanie-docker-160771100/?sh=quYU7zzK-g)
-  * [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+* I'm currently learning:
+  * Rust
+    * [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+  * Haskell
+    * [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell?query=Get%20Programming%20with%20Haskell)
+    * [Computer Science Center - Функциональное программирование на языке Haskell](https://stepik.org/course/75/info)
+  * Elm
+    * [Elm in Action](https://www.manning.com/books/elm-in-action?query=Elm%20in%20Action)
+  * Docker
+    * [Using Docker: Developing and Deploying Software with Containers 1st Edition](https://www.amazon.com/Using-Docker-Developing-Deploying-Containers/dp/1491915765)
+  * Design & Architecture
+    * [Digital Design and Computer Architecture 2nd Edition](https://www.amazon.com/Digital-Design-Computer-Architecture-Harris/dp/0123944244)
+  * SQL
+    * [Stanford Online - Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
 * How to reach me:
   * stepanov.d.m@yandex.ru
   * [Telegram](https://t.me/stepanov_d_m/)

@@ -2,7 +2,7 @@
 * I’m interested in functional programming
 * I’m currently learning Rust, Golang, Haskell
 * I’m looking to collaborate on the development of rust programs
-* I'm currently learning:
+* I'm currently studying:
   * Rust
     * [Programming Rust, 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
   * Haskell

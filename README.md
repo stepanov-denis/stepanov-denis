@@ -5,3 +5,4 @@
 * How to reach me:
   * stepanov.d.m@yandex.ru
   * [Telegram](https://t.me/stepanov_d_m/)
+* [My codewars](https://www.codewars.com/users/stepanov-denis)
